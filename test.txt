@@ -1,1 +1,1 @@
-Hi, i am using Git for the first time.
+Hi, i am using Git for the first time. I am doing changes in the file.
